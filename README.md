@@ -16,7 +16,7 @@ polyps_dataset
 
 
 ## Dataset source for PraNet Implement
-* [Kvasir SEG dataset](https://datasets.simula.no/kvasir-seg/)
+Kvasir SEG dataset :https://datasets.simula.no/kvasir-seg/
 
 
 
